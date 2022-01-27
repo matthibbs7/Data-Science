@@ -1,2 +1,4 @@
-# IBM-Data-Science
-Coursework, Exercises, Projects, and corresponding Review materials for the IBM Data Science Professional Certificate
+# Data Science
+Here you will find various mischellaneous smaller data science projects where I applied a variety of tools
+Most programs here are written in Python and utilize many of the popular data science frameworks like Pandas, NumPy, matplotlib, etc
+
