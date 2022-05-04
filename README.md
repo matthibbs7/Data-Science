@@ -10,11 +10,12 @@ Treasury Yield Rate:
 
 weatheraccidents.ipynb -- Notebook exploring association of weather events with traffic accidents.
 CA vs. TX traffic delays:
-
+![Alt text](catx.png?raw=true "Title")
 A/B Testing with Random label shuffling:
+![Alt text](abtest.png?raw=true "Title")
 
 Scatterplot of Population vs # of accidents:
-
+![Alt text](scatter.png?raw=true "Title")
 
 
 
