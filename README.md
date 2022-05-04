@@ -8,4 +8,13 @@ a1.py -- Simple Program to scrape, wrangle, plot the
 Treasury Yield Rate:
 ![Alt text](a1.png?raw=true "Title")
 
+weatheraccidents.ipynb -- Notebook exploring association of weather events with traffic accidents.
+CA vs. TX traffic delays:
+
+A/B Testing with Random label shuffling:
+
+Scatterplot of Population vs # of accidents:
+
+
+
 
